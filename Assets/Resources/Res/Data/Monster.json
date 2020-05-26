@@ -1,0 +1,30 @@
+[{
+		"Name": "monster1",
+		"Speed": 1.5,
+		"Hp": 100,
+		"Golds": 10
+	},
+	{
+		"Name": "monster2",
+		"Speed": 1.5,
+		"Hp": 100,
+		"Golds": 10
+	},
+	{
+		"Name": "monster3",
+		"Speed": 1.5,
+		"Hp": 100,
+		"Golds": 10
+	}, {
+		"Name": "monster4",
+		"Speed": 1.5,
+		"Hp": 100,
+		"Golds": 10
+	},
+	{
+		"Name": "monster5",
+		"Speed": 1.5,
+		"Hp": 100,
+		"Golds": 10
+	}
+]

@@ -1,0 +1,30 @@
+[{
+		"Name": "Bottle",
+		"AttackCD": 0.5,
+		"Scope": 4,
+		"LevelUp1":180,
+		"LevelUp2":220,
+		"Dele1":80,
+		"Dele2":180,
+		"Dele3":250
+	},
+	{
+		"Name": "Shit",
+		"AttackCD": 0.5,
+		"Scope": 4,
+		"LevelUp1":80,
+		"LevelUp2":120,
+		"Dele1":80,
+		"Dele2":180,
+		"Dele3":250
+	},{
+		"Name": "Fun",
+		"AttackCD": 2,
+		"Scope": 4,
+		"LevelUp1":80,
+		"LevelUp2":120,
+		"Dele1":80,
+		"Dele2":180,
+		"Dele3":250
+	}
+]

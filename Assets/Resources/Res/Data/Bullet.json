@@ -1,0 +1,15 @@
+[{
+		"Name": "BottleBullet",
+		"Speed": 5,
+		"attack": 50
+	},
+	{
+		"Name": "ShitBullet",
+		"Speed": 5,
+		"attack": 50
+	},{
+		"Name": "FunBullet",
+		"Speed": 5,
+		"attack": 50
+	}
+]

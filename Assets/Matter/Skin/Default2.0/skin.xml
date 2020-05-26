@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Main Name="默认皮肤" Version="2" Frame="control\mainframe.png" CornerSize="3" >
+	
+	<Colors>
+		<Menu>
+			<Text Normal="#32556b" Disable="#8fa3af" />
+		</Menu>				
+		<!--Toolbar 字体颜色-->
+		<ToolbarText Normal="#32556b" Pressed="#FFFFFF" Disable="#888888" />   
+		
+		<!--编辑框背景颜色-->
+		<Edit Background ="#FFFFFF">
+			<!--Edit text color-->
+			<Text Normal="#999999" Disable="#888888" />
+		</Edit>
+		
+		<!--框架标题-->
+		<CaptionText Normal="#FFFFFF" />	
+		
+		<!--管理窗口的listctrl背景色-->
+		<PhotoList Background="#f7f7f7" TextNor="#333333" TextSelBg="#316ac5" TextSel="#ffffff" TextBg="#f7f7f7" SortBg="#f8f8f8" />
+		
+		<!--地址栏下拉树的背景颜色-->
+	<!--	<ComboTree Background="#FFFFFF" Hover="#5E95B6" />   -->
+		
+		<!--地址栏comboEdit的文字的HOVER背景-->
+	<!--	<ComBoEditText Hover="#EBF3F7" />  -->
+		
+		
+		<!--地址栏当前目录的背景色-->
+	<!--	<ComboBoxCurrentFolder Background="#FFFFFF" />	-->
+		
+	</Colors>	
+	<Backgrounds>
+
+		<Wnd.Image Normal="control\box_bg2.png" StartOffset="4" EndOffset="4" TopOffset="35" BottomOffset="45" Stretch="1" />
+		<LCtrl.Item Normal="control\list.nor.png" StartOffset="2" EndOffset="2" Stretch="1" />
+		
+	</Backgrounds>
+
+
+	<Edit>
+		<Background Normal="control\edit.png" Hover="control\edit_hover.png" Disable="control\edit_dis.png" StartOffset="8" EndOffset="8" Stretch="0" />
+	</Edit>	
+
+	<Setting DlgBgClr="#f6f8f9">	
+		<KKCtrlTabBg Normal="control\edit_tab_bg.png" StartOffset="8" EndOffset="5" Stretch="1" />		
+	</Setting>	
+
+	<MessageBox>
+		<Close Normal="control\bx_close.png" Hover="control\bx_close_hover.png" />	
+		<DoingIcon Normal="control\doing.png" />                                  
+		<DoingsIcon Normal="control\doings.png" />
+		<WarnIcon Normal="control\warn.png" />
+		<QuestionIcon Normal="control\question.png" />
+		<OkIcon Normal="control\ok.png" />	
+		<Btn Normal="control\button_normal.png" Hover="control\button_hover.png" Selected="control\button_selected.png" Pressed="control\button_press.png" StartOffset="5" EndOffset="5" TopOffset="5" BottomOffset="5" Stretch="1" />
+	</MessageBox>
+	
+	<Twitter>
+		<Login.Title.Bg Normal="control\sina_bg.png" />
+		<Sina.SignUp Normal="control\sinasignup.png" />
+		<Go Normal="control\twitter_go.png" />
+		<Login Normal="control\twitter_go.png" />
+		<TxWeibo.Title.Bg Normal="control\tqq_bg.png" />
+	</Twitter>
+
+
+
+</Main>
